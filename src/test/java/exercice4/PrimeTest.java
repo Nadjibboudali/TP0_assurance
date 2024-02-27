@@ -20,8 +20,6 @@ class PrimeTest {
 
         assertFalse(Prime.isPrime(6));
 
-
-
     }
     @Test
     @DisplayName("retourner true le numero est premier  ")
